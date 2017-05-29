@@ -74,6 +74,13 @@ p{
 #paragraphe1{
     max-width: 750px;
     margin: 0 15px 0 0;
+  
+}
+#paragraphe2{
+    text-align: center;
+}
+#paragraphe3{
+    text-indent: 50px;
 }
 article{
     border: 1px solid lightslategray;
@@ -89,6 +96,7 @@ article:nth-of-type(1){
 #img1{
     width:120px;
     height:120px;
+  
 }
 #img2{
     width: 30%;
